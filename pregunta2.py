@@ -18,3 +18,4 @@ for num in range(1, 11):
 
 #print(primos)
 print(valores_recogidos)
+print("javi cambio")
